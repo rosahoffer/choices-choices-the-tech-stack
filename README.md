@@ -1,4 +1,4 @@
-# Ulti.tv - Een nieuwe techstack
+# Ulti.tv - Een Nieuwe Tech-Stack
 
 
 Dit project omvat een een stukje van de web-app van Ulti.tv dat gemaakt is in `VuePress`. De getoonde data is afkomstig vanuit een headless CMS genaamd `Strapi`.
