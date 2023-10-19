@@ -22,7 +22,7 @@ De applicatie is op twee manieren te gebruiken: lokaal en op het web. Lokaal is 
 
 ## 💎 Kenmerken
 
-Dit project is gemaakt met VuePress en Strapi. Verder staat hieronder nog een korte lijst met gebruikte tools en middelen.
+Hieronder staat een korte lijst met gebruikte tools en middelen.
 
 **Tools**
 
