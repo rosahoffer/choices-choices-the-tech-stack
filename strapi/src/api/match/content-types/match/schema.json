@@ -1,0 +1,37 @@
+{
+  "kind": "collectionType",
+  "collectionName": "matches",
+  "info": {
+    "singularName": "match",
+    "pluralName": "matches",
+    "displayName": "Match",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Time": {
+      "type": "time"
+    },
+    "Date": {
+      "type": "date"
+    },
+    "Division": {
+      "type": "string"
+    },
+    "Location": {
+      "type": "string"
+    },
+    "Round": {
+      "type": "string"
+    },
+    "Team1": {
+      "type": "string"
+    },
+    "Team2": {
+      "type": "string"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "kind": "collectionType",
+  "collectionName": "current_tournaments",
+  "info": {
+    "singularName": "current-tournament",
+    "pluralName": "current-tournaments",
+    "displayName": "Current Tournament",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Name": {
+      "type": "string"
+    },
+    "Date": {
+      "type": "date"
+    },
+    "City": {
+      "type": "string"
+    },
+    "matches": {
+      "type": "relation",
+      "relation": "oneToMany",
+      "target": "api::match.match"
+    }
+  }
+}
